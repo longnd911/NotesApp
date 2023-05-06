@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956815361883",
+    "project_id": "notesat-bb1a0",
+    "storage_bucket": "notesat-bb1a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956815361883:android:03b06b4e8b738d1429bc7e",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956815361883-g9o3igmoaj671r79utdbvbahnu7pm3j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hV3LayPhITt0cMAOmTXGTpat4Icxlag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956815361883-g9o3igmoaj671r79utdbvbahnu7pm3j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
